@@ -14,6 +14,13 @@ public class UserRegistrationServiceApplication {
         String name2="Bavi";
         System.out.println(" end-----------");
 
+
+        System.out.println("UserRegistrationServiceApplication started--------------------");
+        int i=10;
+        String name="meena";
+        String name2="Bavi";
+        System.out.println(" end-----------");
+
     }
 
 }
