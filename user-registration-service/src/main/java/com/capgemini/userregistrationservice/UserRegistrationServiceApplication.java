@@ -12,8 +12,8 @@ public class UserRegistrationServiceApplication {
         int i=10;
         String name="meena";
         String name2="Bavi";
+        System.out.println(" end-----------");
 
-        
     }
 
 }
