@@ -13,11 +13,7 @@ public class UserRegistrationServiceApplication {
         String name="meena";
         String name2="Bavi";
 
-        // double added
-
-        int i=10;
-        String name="meena";
-        String name2="Bavi";
+        
     }
 
 }
